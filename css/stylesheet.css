@@ -1,0 +1,96 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    margin:0;
+}
+
+#topbar {
+    background-color:white;
+    width:100%;
+    height:45px;
+    color:black;
+    position:fixed;
+}
+
+.fixedwidth {
+    width:1050px;
+    margin:0 auto;
+    border-style:0;
+}
+
+#logodiv {
+    padding-top:5px;
+    padding-left:20px;
+    float:left;
+    width:500px;
+    height:100%;
+}
+
+#topmenudiv {
+    float:left;
+}
+
+#topmenudiv ul {
+    padding:0;
+    margin:0;
+}
+
+#topmenudiv li {
+    float:left;
+    list-style:none;
+    font-weight:bold;
+    font-size:20px;
+    height:100%;
+    padding: 10px 20px 12px 20px;
+}
+
+#buildongraphicdiv {
+    background-color:green;
+    width:100%;
+    height:500px;
+    color:black;
+}
+.break {
+    clear:both;
+}
+
+#servicenowdiv {
+    background-color:white;
+    width:100%;
+    height:500px;
+    color:black;
+}
+
+#watsondiv {
+    background-color:#00B2EF;
+    width:100%;
+    height:500px;
+    color:black;
+}
+
+#enddiv {
+    background-color:white;
+    width:100%;
+    height:1000px;
+    color:black;
+}
+
+#buildongraphicfixedwidth {
+    padding: 70px 200px 200px 400px;
+    width:300px;
+    height:200px;
+}
+
+#servicenowfixedwidth {
+    padding: 70px 200px 200px 400px;
+    width:300px;
+    height:200px;
+}
+
+#watsonfixedwidth {
+    padding: 70px 200px 200px 400px;
+    width:300px;
+    height:200px;
+}
